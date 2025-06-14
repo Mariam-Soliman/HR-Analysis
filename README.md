@@ -50,6 +50,9 @@ Columns Data Types:
 - Salary	Decimal
 - Bonus	Decimal
 - TrainingHours	Integer
+
+#### dataset link 
+https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 ## Data Wrangling
 - Reformating: replacing "M" by "Male" and "F" by "Female" in Sex column.
 - Binning: added column Salary Bins and assigned each salary value to a bin.
